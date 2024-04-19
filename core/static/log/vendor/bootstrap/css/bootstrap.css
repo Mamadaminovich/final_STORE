@@ -2513,9 +2513,7 @@ input[type="button"].btn-block {
 .fade.show {
   opacity: 1;
 }
-.fadeshow {
-  opacity: 1;
-}
+
 .collapse {
   display: none;
 }
@@ -3239,7 +3237,7 @@ tbody.collapse.show {
 }
 
 .tab-content > .active {
-  display: none;
+  display: block;
 }
 
 .navbar {
